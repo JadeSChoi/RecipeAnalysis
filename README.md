@@ -25,7 +25,7 @@ Conducted the following data cleaning steps to improve data analysis.
 As shown in the histogram below, the minutes data is heavily skewed to the right as there are some values that are over one million minutes. Deeming this as signifcant outliers, using the 'outlier' column got rid of the upper outliers within the data set to create a more usefull histogram. The histogram is still heavily skewed
 
 <iframe
-  src="C:\Users\<YourUsername>\Desktop\dsc80-2024-fa\RecipeAnalysis\assets\plot1.html"
+  src="assets/C:\Users\<YourUsername>\Desktop\dsc80-2024-fa\RecipeAnalysis\assets\plot1.html"
   width="800"
   height="600"
   frameborder="0"
@@ -68,7 +68,7 @@ With the observed absoulute difference of 1.3386 and when simulating the abs mea
 
 
 <iframe
-  src="C:\Users\<YourUsername>\Desktop\dsc80-2024-fa\RecipeAnalysis\assets\plot2.html"
+  src="assets/C:\Users\<YourUsername>\Desktop\dsc80-2024-fa\RecipeAnalysis\assets\plot2.html"
   width="800"
   height="600"
   frameborder="0"
@@ -89,7 +89,7 @@ Significance Level: 0.05
 With the observed absoulute difference of 0.0348 and when simulating the abs mean differences 1000 times, I end with a p value of 0.00 meaning we reject the null hypothesis and the test suggest the number of minutes has an impact on the rating. 
 
 <iframe
-  src="C:\Users\<YourUsername>\Desktop\dsc80-2024-fa\RecipeAnalysis\assets\plot3.html"
+  src="assets/C:\Users\<YourUsername>\Desktop\dsc80-2024-fa\RecipeAnalysis\assets\plot3.html"
   width="800"
   height="600"
   frameborder="0"
